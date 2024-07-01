@@ -367,6 +367,46 @@
         "cutoffFormatScore": 500,
         "formatItems": [
             {
+                "format": 353,
+                "name": "BHDStudio (1080p x265)",
+                "score": 0
+            },
+            {
+                "format": 352,
+                "name": "E1",
+                "score": 0
+            },
+            {
+                "format": 351,
+                "name": "2160p x265",
+                "score": 0
+            },
+            {
+                "format": 349,
+                "name": "EXCiSiON",
+                "score": 0
+            },
+            {
+                "format": 348,
+                "name": "Unwanted x265 Groups",
+                "score": 0
+            },
+            {
+                "format": 347,
+                "name": "CRX",
+                "score": 0
+            },
+            {
+                "format": 346,
+                "name": "HDR10 (Missing) (x265 HDR only)",
+                "score": 0
+            },
+            {
+                "format": 345,
+                "name": "UHD Bluray",
+                "score": 0
+            },
+            {
                 "format": 344,
                 "name": "jennaortegaUHD",
                 "score": 0
@@ -528,7 +568,7 @@
             },
             {
                 "format": 302,
-                "name": "AV-1",
+                "name": "AV1",
                 "score": -9999
             },
             {
@@ -1060,6 +1100,11 @@
                 "format": 191,
                 "name": "D-Z0N3",
                 "score": 120
+            },
+            {
+                "format": 340,
+                "name": "Upscaled",
+                "score": -9999
             }
         ],
         "language": {
